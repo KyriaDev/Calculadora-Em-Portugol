@@ -3,9 +3,9 @@ programa {
     caracter operador
     real resultado = 0.0, valor1, valor2
 
-    escreva("Digite seu primeiro valor: ")
+    escreva("Digite o primeiro valor: ")
     leia(valor1)
-    escreva("Digite seu segundo valor: ")
+    escreva("Digite o segundo valor: ")
     leia(valor2)
 
     escreva("Agora escolha uma das operações: ( + - * / ): ")
